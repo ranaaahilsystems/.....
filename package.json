@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sikkufiles/....."
+    "url": "git+https://github.com/ranaaahilsystems/.........."
   },
-  "author": "Muhammad Hamza (HOP Programmers)",
+  "author": "Rana Aahil (RSA Programmers)",
   "license": "MIT",
   "dependencies": {
     "axios-proxy-fix": "^0.16.3",
@@ -18,7 +18,7 @@
     "uuid": "^3.3.2"
   },
   "bugs": {
-    "url": "https://github.com/sikkufiles/...../issues"
+    "url": "https://github.com/ranaaahilsystems/....."
   },
-  "homepage": "https://github.com/sikkufiles/.....#readme"
+  "homepage": "https://github.com/ranaaahilsystems/....."
 }
